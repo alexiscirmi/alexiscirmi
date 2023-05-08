@@ -2,7 +2,6 @@
 My name's Alexis, I'm 29 years old and I live in Argentina.
 
 🔭 I’m currently working hard on improving my web development skills!
-
 🌱 I’m currently learning (well, actually reinforcing) HTML, CSS, JavaScript and ReactJS.
 
 📫 How to reach me: this is my LinkedIn account https://www.linkedin.com/in/alexis-cirmi-38ba8311b/ feel free to connect with me!
