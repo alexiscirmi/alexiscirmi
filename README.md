@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Alexis and I'm 29 years old.
+My name's Alexis and I'm 30 years old.
 
 🔭 I’m currently working hard on improving my front-end web development skills!
 
