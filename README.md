@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name's Alexis and I'm 30 years old.
 
-🔭 I’m currently working hard on improving my front-end web development skills!
+🔭 Working hard on improving my front-end web development skills!
 
 🌱 I’m currently learning NextJS.
 
