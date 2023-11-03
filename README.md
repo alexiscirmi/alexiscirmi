@@ -3,7 +3,7 @@ My name's Alexis and I'm 30 years old.
 
 🔭 Working hard on improving my front-end web development skills!
 
-🌱 I’m currently learning NextJS.
+🌱 I’m currently learning NextJS 14.
 
 📫 How to reach me: this is my LinkedIn account https://www.linkedin.com/in/alexis-cirmi-38ba8311b/ feel free to connect with me!
 
