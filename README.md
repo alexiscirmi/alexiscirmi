@@ -8,7 +8,7 @@ My name's Alexis and I'm 30 years old.
 📫 How to reach me: this is my LinkedIn account https://www.linkedin.com/in/alexis-cirmi-38ba8311b/ feel free to connect with me!
 
 <!--
-**cirmialexis/cirmialexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexiscirmi/alexiscirmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
