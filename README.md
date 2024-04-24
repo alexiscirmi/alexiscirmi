@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name's Alexis and I'm 30 years old.
 
-👨🏻‍💻 I'm currently learning TypeScript!
+👨🏻‍💻 I'm currently working on an e-commerce project using Next.js, TypeScript, Redux & TailwindCSS!
 
 💼 #OpenToWork
 
