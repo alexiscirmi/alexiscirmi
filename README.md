@@ -1,12 +1,3 @@
-### Hi there 👋
-My name's Alexis and I'm 30 years old.
-
-👨🏻‍💻 I'm currently working on an e-commerce project using Next.js, TypeScript, Redux & TailwindCSS!
-
-💼 #OpenToWork
-
-📫 How to reach me: this is my LinkedIn account https://www.linkedin.com/in/alexis-cirmi-38ba8311b/ feel free to connect with me!
-
 <!--
 **alexiscirmi/alexiscirmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
